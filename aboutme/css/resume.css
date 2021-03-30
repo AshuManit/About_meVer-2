@@ -1,0 +1,28 @@
+body{
+  background-image:url('back.jpg');  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#header {
+   font-size:50px;
+   border: 5px solid blanchedalmond;
+   box-shadow: 20px 60px 90px gray;
+  text-align: center;
+}
+div.absolute {
+    position: absolute;
+    color:white;
+    text-align: center;
+    top: 200px;
+    left:198px;
+    width: 350px;
+    height:350px;
+    border: 3px solid black;
+    border-radius: 52%;
+    background-color: black;
+  }
+  #home{
+    position: fixed;
+    top:2px;
+    left: 12px;
+  }
